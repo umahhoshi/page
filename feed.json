@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://umahhoshi.com/reservation.html",
+            "url": "https://umahhoshi.com/reservation.html",
+            "title": "Reservation",
+            "summary": "Book Now",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"2000\" style=\"max-width: 100%; border: none; overflow: auto;\" src=\"http://extranet.ikakua.com/booking2.php?propid=72514&amp;referer=iframe\"><p><a href=\"http://extranet.ikakua.com/booking2.php?propid=72514&amp;referer=iframe\" title=\"Book Now\">Book Now</a></p></iframe></div>",
+            "image": "https://umahhoshi.com/media/posts/3/DSC03969.jpg",
+            "author": {
+                "name": "Umah Hoshi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-03T18:32:04+08:00",
+            "date_modified": "2020-12-03T18:33:31+08:00"
+        },
+        {
             "id": "https://umahhoshi.com/gallery-umah-hoshi.html",
             "url": "https://umahhoshi.com/gallery-umah-hoshi.html",
             "title": "Gallery Umah Hoshi ",

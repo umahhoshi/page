@@ -3,12 +3,34 @@
     <title>Umah Hoshi</title>
     <link href="https://umahhoshi.com/feed.xml" rel="self" />
     <link href="https://umahhoshi.com" />
-    <updated>2020-09-10T16:14:24+08:00</updated>
+    <updated>2020-12-03T18:33:31+08:00</updated>
     <author>
         <name>Umah Hoshi</name>
     </author>
     <id>https://umahhoshi.com</id>
 
+    <entry>
+        <title>Reservation</title>
+        <author>
+            <name>Umah Hoshi</name>
+        </author>
+        <link href="https://umahhoshi.com/reservation.html"/>
+        <id>https://umahhoshi.com/reservation.html</id>
+
+        <updated>2020-12-03T18:33:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://umahhoshi.com/media/posts/3/DSC03969.jpg" alt="" />
+                    Book Now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://umahhoshi.com/media/posts/3/DSC03969.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="800" height="2000" style="max-width: 100%; border: none; overflow: auto;" src="http://extranet.ikakua.com/booking2.php?propid=72514&amp;referer=iframe"><p><a href="http://extranet.ikakua.com/booking2.php?propid=72514&amp;referer=iframe" title="Book Now">Book Now</a></p></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gallery Umah Hoshi </title>
         <author>
